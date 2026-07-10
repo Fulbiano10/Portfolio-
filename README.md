@@ -30,8 +30,8 @@
 
 ## 📫 Contact
 
-- GitHub : [ton lien ici]
-- Pseudo : ZeroTrace
+- GitHub : https://github.com/Fulbiano10
+- Pseudo : Zero_Trace
 
 ---
 *Ce portfolio est un travail en cours, mis à jour régulièrement dans le cadre de ma préparation au HackerLab Bénin 2026.*

@@ -8,9 +8,9 @@
 
 ## 🎯 Objectifs
 
-- Compétition : HackerLab Bénin 2026
+- Compétition : HackerLab Bénin
 - Domaines de spécialisation en cours : Linux, cryptographie, sécurité web, forensics, reverse engineering, systèmes
-- Plateformes d'entraînement : TryHackMe, CyberCampus
+- Plateformes d'entraînement : TryHackMe, CyberCampus, Hack The Box.
 
 ## 🛠️ Compétences en développement
 
@@ -31,7 +31,7 @@
 ## 📫 Contact
 
 - GitHub : https://github.com/Fulbiano10
-- Pseudo : Zero_Trace
+- Pseudo : Zéro_Trace
 
 ---
-*Ce portfolio est un travail en cours, mis à jour régulièrement dans le cadre de ma préparation au HackerLab Bénin 2026.*
+*Ce portfolio est un travail en cours, mis à jour régulièrement dans le cadre de ma préparation au HackerLab Bénin.*

@@ -2,7 +2,7 @@
 
 ## 👤 À propos
 
-Étudiant en sécurité informatique basé au Bénin, passionné par l'analyse offensive et défensive des systèmes. Je documente ici mon parcours d'apprentissage, mes write-ups techniques et mes projets, dans le cadre de ma préparation pour le **HackerLab Bénin 2026**.
+Étudiant en sécurité informatique résident au Bénin, passionné par l'analyse offensive et défensive des systèmes. Je documente ici mon parcours d'apprentissage, mes write-ups techniques et mes projets, dans le cadre de ma préparation pour le **HackerLab Bénin**.
 
 > *"Pas peur de tomber, peur d'abandonner."*
 
